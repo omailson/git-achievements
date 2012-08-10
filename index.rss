@@ -2,6 +2,7 @@
 <title>Mailson Lira's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Apprentice Locksmith (Level 1)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
